@@ -1,6 +1,6 @@
-# Gensler Hackathon One!
+# Gensler Analytics Community Hackathon!
 
-Welcome to Gensler Hackathon One! This friendly competition serves as an opportunity for folks to show off their analytical skills and collaborate with other analysts across the company.
+Welcome to our first Gensler Analytics Community Hackathon! This friendly competition serves as an opportunity for folks to show off their analytical skills and collaborate with other analysts across the company.
 
 ## Dataset
 
